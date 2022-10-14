@@ -6,4 +6,4 @@ Assim que efetuado o cadastro o utilizador é direcionado para o menu, se for Ad
 se for usuário terá apenas acesso a consulta das cervejas. 
 Formulário de cadastro de novas cervejas com PHP, JavaScript e HTML.
 Consulta de novas cervejas com tabela, sitema de pesquisa de itens na tabela, alteração e exclusão de itens na tabela.
-Uso de CSS e Bootstrap para design do site. 
+Uso de CSS e Bootstrap para design do site.  
