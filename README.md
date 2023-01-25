@@ -1,4 +1,4 @@
-# Avalia-o
+# Projeto Integrador com PHP, JavaScript e HTML
 Site com tema de cervejas. Entrada do site com login, senha criptografada e cadastramento de novo usuário. 
 Na área de cadastro de novo usuário, formulário com sistema de segurança, caso o utilizador preencha os campos com senhas diferentes o cadastro não será realizado.
 Cadastramento salvo no bando de dados. Formulário feito com PHP, JavaScript e HTML.
